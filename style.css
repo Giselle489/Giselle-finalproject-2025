@@ -4,6 +4,13 @@ body {
   color: pink;
   margin: 30px;
   padding: 50px;
-}
+} 
+
+header {
+  background-color: black;
+  color: yellow;
+  padding: 20px;
+  text-align: center;
+
 
 
