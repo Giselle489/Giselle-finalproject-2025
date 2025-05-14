@@ -1,16 +1,24 @@
 body {
   font-family: sans-serif;
-  background-color: black;
+  background-color: gray;
   color: pink;
   margin: 30px;
   padding: 50px;
 } 
 
 header {
-  background-color: black;
+  background-color: gray;
   color: yellow;
   padding: 20px;
   text-align: center;
+
+  section {
+  margin: 40px;
+  padding: 30px;
+  background-color: gray;
+  border-radius: 15px;
+}
+
 
 
 
