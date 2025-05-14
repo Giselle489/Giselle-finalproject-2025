@@ -16,8 +16,15 @@ header {
   margin: 40px;
   padding: 30px;
   background-color: pink;
+  border-radius: 15px; 
+  }
+
+  .section2 {  margin: 40px;
+  padding: 30px;
+  background-color: pink;
   border-radius: 15px;
-}
+            }
+
 
 
 
