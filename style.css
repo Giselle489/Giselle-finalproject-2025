@@ -12,10 +12,10 @@ header {
   padding: 20px;
   text-align: center;
 
-  section {
+  .section1 {
   margin: 40px;
   padding: 30px;
-  background-color: gray;
+  background-color: pink;
   border-radius: 15px;
 }
 
