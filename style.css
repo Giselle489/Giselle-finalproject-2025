@@ -11,13 +11,15 @@ header {
   color: yellow;
   padding: 20px;
   text-align: center;
+}
 
-  section-1 {
+  .section-1{
   margin: 40px;
   padding: 30px;
   background-color: pink;
   border-radius: 15px; 
   border: 5px solid black;
+  width: 50%;
   }
 
   
