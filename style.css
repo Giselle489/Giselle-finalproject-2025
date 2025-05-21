@@ -83,7 +83,7 @@ body {
   box-shadow: 20px; 
   }
 
-  #color:hover {
+  a:hover {
   background-color: yellow;
   font-size: 18px;
 }
