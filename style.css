@@ -13,13 +13,13 @@ body {
   text-align: center; }
 
   .sectionA {
-  margin: 40px;
-  padding: 100px;
+  margin-left: 400px;
+  padding: 30px;
   background-color: pink;
   border: 5px solid black;
   width: 50%;
   color:black; 
-  display: inline-block; 
+  
   
   }
 
@@ -27,9 +27,9 @@ body {
   width: 50%;
   border: 5px solid pink;
   background-color: black;
-  padding: 100px;
-  margin: 40px; 
-  display: inline-block;
+  padding: 40px;
+  margin-left: 400px; 
+  
    
  }
 
@@ -37,8 +37,8 @@ body {
   width: 50%;
   border: 5px solid black;
   background-color: pink;
-  padding: 100px;
-  margin: 40px;
+  padding: 30px;
+  margin-left: 400px;
   color:black;
   
   }
@@ -48,7 +48,7 @@ body {
   border: 5px solid pink;
   background-color: black;
   padding: 100px;
-  margin: 40px;
+  margin-left: 400px;
 
 }
 
@@ -67,7 +67,7 @@ body {
   border: 5px solid pink;
   background-color: black;
   padding: 100px;
-  margin: 40px;
+  margin-left: 400px;
 
   img {
   width: 100%;
