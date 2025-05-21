@@ -18,7 +18,8 @@ body {
   background-color: pink;
   border: 5px solid black;
   width: 50%;
-  color:black;
+  color:black; 
+  display: inline-block;
   }
 
  .sectionB {  
@@ -27,6 +28,7 @@ body {
   background-color: black;
   padding: 30px;
   margin: 40px; 
+  display: inline-block;
    
  }
 
