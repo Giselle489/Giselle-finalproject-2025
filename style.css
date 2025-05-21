@@ -30,6 +30,7 @@ body {
   background-color: black;
   padding: 30px;
   margin: 40px; 
+  margin-left: 600px
   
    
  }
@@ -42,6 +43,7 @@ body {
   margin: 40px;
   color:black;
   font-family: cursive;
+  margin-left: 600px;
   
   }
 
@@ -50,7 +52,8 @@ body {
   border: 5px solid pink;
   background-color: black;
   padding: 30px;
-  margin-left: 40px;
+  margin: 40px;
+  margin-left: 600px;
 
 }
 
@@ -62,6 +65,7 @@ body {
   padding: 40px;
   margin: 30px;
   color:black;
+  margin-left: 600px;
 }
 
 .sectionF { 
@@ -69,7 +73,9 @@ body {
   border: 5px solid pink;
   background-color: black;
   padding: 30px;
-  margin-left: 40px;
+  margin: 40px;
+  margin-left: 600px;
+  
 
   img {
   width: 100%;
