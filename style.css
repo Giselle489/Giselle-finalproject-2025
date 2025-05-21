@@ -19,6 +19,7 @@ body {
   border: 5px solid black;
   width: 50%;
   color:black; 
+  margin-left: 600px;
   
   
   }
@@ -40,6 +41,7 @@ body {
   padding: 30px;
   margin: 40px;
   color:black;
+  font-family: cursive;
   
   }
 
